@@ -1,10 +1,23 @@
-# Olá, eu sou o Nap! 👋
+<h1 align="center">Olá, me chamo Nap!</h1>
 
-## 📂 Informações
-- 💼 **YouTuber**
-- 💻 **Programador**
-  - <\Nap>
-- 🔗 **Links:** [Linktree](https://linktr.ee/SrNap)
-- 🎨 **Designer**
+<h3 align="center">Eu sou um "iniciante" no mundo da programação e faço projetos quando posso.</h3>
 
-Tenho experiência em `aoi.js` e `HTML`. Estou sempre em busca de aprender coisas novas. Além disso, sou o criador do bot Discord chamado [Mirely](https://mirely-shop.netlify.app/), o que tem sido uma experiência incrível. Sinta-se à vontade para explorar meus repositórios e entrar em contato comigo para colaborações ou apenas para trocar ideias!
+<div align="center" style="margin-top: 20px;">
+  <img class="stats-item" src="https://github-readme-stats.vercel.app/api?username=SrNap&show_icons=true&hide_border=true&title_color=4E5D94&icon_color=4E5D94&text_color=9fabb7&bg_color=ffffff00" alt="SrNap github stats" /> 
+  <img class="stats-item" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrNap&layout=compact&hide_border=true&title_color=4E5D94&text_color=9fabb7&bg_color=ffffff00" />
+</div>
+
+<div align="center" style="margin-top: 30px;">
+  <h2 style="color: #4E5D94;">📦 › Projetos recentes</h2>
+</div>
+
+<div align="center">
+  <a href="https://github.com/SrNap/gift-manager" target="_blank" style="text-decoration: none;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SrNap&repo=gift-manager&hide_border=true&title_color=4E5D94&text_color=9fabb7&icon_color=4E5D94&bg_color=ffffff00" alt="Gift Manager">
+  </a>
+</div>
+
+<div align="center" style="margin-top: 30px;">
+  <h2 style="color: #4E5D94;">💻 › Habilidades & Ferramentas</h2>
+  <img src="https://skillicons.dev/icons?i=aoi.js,html,css,nodejs,mongodb,npm,vscode,git,windows,SrNap" />
+</div>
