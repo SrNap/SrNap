@@ -17,8 +17,6 @@
   </a>
 </div>
 
-<h4 align="center">OBS: Não uso muito o github.</h4>
-
 <div align="center" style="margin-top: 30px;">
   <h2 style="color: #4E5D94;">💻 › Habilidades & Ferramentas</h2>
   <img src="https://skillicons.dev/icons?i=discordjs,discord,nodejs,mongodb,windows,SrNap" />
