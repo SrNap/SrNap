@@ -13,7 +13,7 @@
 
 <div align="center">
   <a href="https://github.com/SrNap/Skipp" target="_blank" style="text-decoration: none;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SrNap&repo=gift-manager&hide_border=true&title_color=4E5D94&text_color=9fabb7&icon_color=4E5D94&bg_color=ffffff00" alt="Gift Manager">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SrNap&repo=Skipp&show_icons=true&hide_border=true&title_color=4E5D94&icon_color=4E5D94&text_color=9fabb7&bg_color=ffffff00" alt="Gift Manager">
   </a>
 </div>
 
