@@ -17,6 +17,8 @@
   </a>
 </div>
 
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
+
 <div align="center" style="margin-top: 30px;">
   <h2 style="color: #4E5D94;">💻 › Habilidades & Ferramentas</h2>
   <img src="https://skillicons.dev/icons?i=discordjs,discord,nodejs,mongodb,windows,SrNap" />
